@@ -1,8 +1,12 @@
-# Mikroişlemci Simülatörü
+# 🧠 Mikroişlemci Simülatörü
 
-Bu proje, JavaScript ile geliştirilen bir komut satırı mikroişlemci simülatörüdür.
+Bu proje, Ondokuz Mayıs Üniversitesi Bitirme Projesi kapsamında geliştirilmiş komut satırı tabanlı bir mikroişlemci simülatörüdür.  
+Amaç, temel işlemci mimarisini ve assembly benzeri komut setlerinin nasıl çalıştığını öğretmek ve deneyimlemektir.
 
-## Özellikler
+---
+
+## 🚀 Özellikler
+
 - Derleme ve çalıştırma desteği
 - Aritmetik işlemler (toplama, çıkarma, bölme, mod vb.)
 - Mantıksal işlemler (and, or, not, xor)
@@ -10,8 +14,18 @@ Bu proje, JavaScript ile geliştirilen bir komut satırı mikroişlemci simülat
 - Adım adım çalıştırma (step-by-step)
 - Gelişmiş hata mesajları ve debug modu
 
-## Kullanım
-Proje dosyaları `src/` klasörü altındadır. `main.js` Node.js üzerinde çalıştırılabilir.
+---
+
+## 💻 Gereksinimler
+
+- [Node.js](https://nodejs.org/) 14 veya üzeri sürüm
+- Komut satırı (CMD, PowerShell veya terminal)
+
+---
+
+## ⚙️ Kurulum
+
+Kurulum gerektirmez. Ana dosya doğrudan çalıştırılabilir.
 
 ```bash
 node src/main.js
